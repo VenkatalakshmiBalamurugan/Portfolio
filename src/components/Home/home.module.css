@@ -52,17 +52,7 @@ main{
     font-size: 2rem;
     font-weight: 600;
 }
-.avatarImage{
-    margin-top: 5rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    /* animation: renderFromRight 1s ease forwards; */
-}
-.avatarImage img{
-    height: 30rem;
-    object-fit:cover;
-}
+
 .connectText{
     margin-top: 2rem;
     font-size: 1.5rem;
